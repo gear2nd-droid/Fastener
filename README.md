@@ -5,7 +5,7 @@ This add-in for Autodesk Fusion inserts screw, nut, and washer components.
 <a href="https://www.buymeacoffee.com/gear2nddrow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gear2nddrow&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 [Paypal.me](https://www.paypal.com/paypalme/geekgear)
 
-![Fastner](https://github.com/gear2nd-droid/Fastener/assets/1283295/101abc40-bf36-44d6-8d87-0deae22e546a)(https://www.youtube.com/watch?v=cehvSWig_OI)
+[![Fastner](https://github.com/gear2nd-droid/Fastener/assets/1283295/101abc40-bf36-44d6-8d87-0deae22e546a)](https://www.youtube.com/watch?v=cehvSWig_OI)
 
 # Description
 This add-in for Autodesk Fusion inserts screw, nut, and washer components. By selecting the edge of a circle or arc of a tangent object, the component is added at said location. The component with the selected edge and the inserted component are connected to each other by a rigid group.
